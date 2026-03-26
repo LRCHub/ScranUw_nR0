@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KAWASAKI SONG",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-26T01:30:17.984824Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KAWASAKI SONG (feat. DJ TY-KOH, Bark, T-Pablow, Benjazzy, JJJ, BIM & A-Thug)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_KAWASAKI_SONG_(feat._DJ_TY-KOH,_Bark,_T-Pablow,_Benjazzy,_JJJ,_BIM_&_A-Thug)_BAD_HOP.txt"
+    }
+  ]
+}
